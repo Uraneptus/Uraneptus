@@ -1,5 +1,9 @@
 ![Uraneptus github stats](https://github-readme-stats.vercel.app/api?username=uraneptus&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
+My newest Mod:
+
+[![Newest Mod](https://github-readme-stats.vercel.app/api/pin/?username=uraneptus&repo=Lycheed-Forge-1.16.5&show_owner=true&theme=dark)](https://github.com/Uraneptus/Lycheed-Forge-1.16.5)
+
 <!--
 **Uraneptus/Uraneptus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
