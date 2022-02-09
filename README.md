@@ -1,4 +1,4 @@
-![Uraneptus github stats](https://github-readme-stats.vercel.app/api?username=uraneptus&count_private=true&show_icons=true&theme=dark)
+![Uraneptus github stats](https://github-readme-stats.vercel.app/api?username=uraneptus&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 <!--
 My newest Mod:
