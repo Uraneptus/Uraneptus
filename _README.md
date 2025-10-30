@@ -1,3 +1,5 @@
+### I disabled this for now, cuz it's not counting the data of the organisations I work on (or am the owner of). 
+
 <p align="center">
   <a href="https://github.com/Uraneptus"> 
     <!--For anyone reading this, be aware that I'm using my own deployed version of this to be able to track my private repos -->
